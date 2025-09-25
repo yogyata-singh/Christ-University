@@ -73,7 +73,8 @@ header nav ul li a:hover {
 }
 
 .hero {
-    background: url('https://via.placeholder.com/1200x500') center/cover no-repeat;
+    background: linear-gradient(to right, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)),
+            url('christ.jpg') center/cover no-repeat;
     background-color:#a83232;
     color: white;
     height: 100vh;
